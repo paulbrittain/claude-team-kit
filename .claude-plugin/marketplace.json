@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "claude-team-kit",
-      "source": ".",
+      "source": "./",
       "description": "Team workflows for CI, code review, shipping, verification, and test reliability."
     }
   ]

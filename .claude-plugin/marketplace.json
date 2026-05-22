@@ -1,0 +1,14 @@
+{
+  "name": "claude-team-kit",
+  "owner": {
+    "name": "Paul Brittain",
+    "email": "paul@coverstar.app"
+  },
+  "plugins": [
+    {
+      "name": "claude-team-kit",
+      "source": ".",
+      "description": "Team workflows for CI, code review, shipping, verification, and test reliability."
+    }
+  ]
+}
